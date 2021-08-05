@@ -9,10 +9,10 @@ RenLiz08/RenLiz08 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 🇧🇷
-👋 Olá, Eu sou o Renliz Almeida
-👀 Estou enteressado em aprender Linux, JavaScript e Android, desenvolver apps e portar Launchers de fabricantes como Motorola (moto app launcher) e Oneplus (Oneplus launcher) para qualquer dispositivo Android
-🌱 Eu tô aprendendo JavaScript
-💞 Eu quero colaborar em projetos com outros desenvolvedores
-Tenha um ótimo dia
+- 👋 Olá, Eu sou o Renliz Almeida
+- 👀 Estou enteressado em aprender Linux, JavaScript e Android, desenvolver apps e portar Launchers de fabricantes como Motorola (moto app launcher) e Oneplus (Oneplus launcher) para qualquer dispositivo Android
+- 🌱 Eu tô aprendendo JavaScript
+- 💞 Eu quero colaborar em projetos com outros desenvolvedores
+- Tenha um ótimo dia
 (Sou brasileiro)
 
